@@ -1,0 +1,28 @@
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\bin\Debug\LojaABC.exe.config
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\bin\Debug\LojaABC.exe
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\bin\Debug\LojaABC.pdb
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.csproj.AssemblyReference.cache
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.Properties.Resources.resources
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.csproj.GenerateResource.cache
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.csproj.CoreCompileInputs.cache
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.exe
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.pdb
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.frmSplash.resources
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.frmLogin.resources
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.frmFuncionarios.resources
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.frmMenuPrincipal.resources
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\LojaABC\obj\Debug\LojaABC.frmPesquisarFuncionario.resources
+C:\projeto-csharp\LojaABC\bin\Debug\LojaABC.exe.config
+C:\projeto-csharp\LojaABC\bin\Debug\LojaABC.exe
+C:\projeto-csharp\LojaABC\bin\Debug\LojaABC.pdb
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.csproj.AssemblyReference.cache
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.frmFuncionarios.resources
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.frmLogin.resources
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.frmMenuPrincipal.resources
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.frmPesquisarFuncionario.resources
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.frmSplash.resources
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.Properties.Resources.resources
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.csproj.GenerateResource.cache
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.csproj.CoreCompileInputs.cache
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.exe
+C:\projeto-csharp\LojaABC\obj\Debug\LojaABC.pdb

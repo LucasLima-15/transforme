@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\Calculadora\obj\Debug\Calculadora.pdb
+=======
+C:\projeto-csharp\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\projeto-csharp\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+C:\projeto-csharp\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\projeto-csharp\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\projeto-csharp\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\projeto-csharp\Calculadora\bin\Debug\Calculadora.exe.config
+C:\projeto-csharp\Calculadora\bin\Debug\Calculadora.exe
+C:\projeto-csharp\Calculadora\bin\Debug\Calculadora.pdb
+C:\projeto-csharp\Calculadora\obj\Debug\Calculadora.exe
+C:\projeto-csharp\Calculadora\obj\Debug\Calculadora.pdb
+>>>>>>> ba87ae2c96e309aab14719d78e4e5eafc7f3ff2a

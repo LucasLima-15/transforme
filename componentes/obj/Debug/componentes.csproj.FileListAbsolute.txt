@@ -1,0 +1,20 @@
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\componentes\bin\Debug\componentes.exe.config
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\componentes\bin\Debug\componentes.exe
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\componentes\bin\Debug\componentes.pdb
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\componentes\obj\Debug\componentes.csproj.AssemblyReference.cache
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\componentes\obj\Debug\componentes.frmComponentes.resources
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\componentes\obj\Debug\componentes.Properties.Resources.resources
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\componentes\obj\Debug\componentes.csproj.GenerateResource.cache
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\componentes\obj\Debug\componentes.csproj.CoreCompileInputs.cache
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\componentes\obj\Debug\componentes.exe
+C:\Users\pedro.lalima\Documents\Visual Studio 2019\TransformeSe\componentes\obj\Debug\componentes.pdb
+C:\projeto-csharp\componentes\bin\Debug\componentes.exe.config
+C:\projeto-csharp\componentes\bin\Debug\componentes.exe
+C:\projeto-csharp\componentes\bin\Debug\componentes.pdb
+C:\projeto-csharp\componentes\obj\Debug\Componentes.csproj.AssemblyReference.cache
+C:\projeto-csharp\componentes\obj\Debug\componentes.frmComponentes.resources
+C:\projeto-csharp\componentes\obj\Debug\componentes.Properties.Resources.resources
+C:\projeto-csharp\componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+C:\projeto-csharp\componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\projeto-csharp\componentes\obj\Debug\componentes.exe
+C:\projeto-csharp\componentes\obj\Debug\componentes.pdb
