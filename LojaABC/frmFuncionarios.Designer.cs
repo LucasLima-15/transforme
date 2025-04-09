@@ -56,12 +56,12 @@ namespace LojaABC
             this.btnCadastrar = new System.Windows.Forms.Button();
             this.btnNovo = new System.Windows.Forms.Button();
             this.gpbEndereco = new System.Windows.Forms.GroupBox();
-            this.txtEstado = new System.Windows.Forms.TextBox();
-            this.lblEstado = new System.Windows.Forms.Label();
+            this.txtCidade = new System.Windows.Forms.TextBox();
+            this.lblCIdade = new System.Windows.Forms.Label();
             this.lblUF = new System.Windows.Forms.Label();
             this.cbbUF = new System.Windows.Forms.ComboBox();
-            this.txtCidade = new System.Windows.Forms.TextBox();
-            this.lblCidade = new System.Windows.Forms.Label();
+            this.txtBairro = new System.Windows.Forms.TextBox();
+            this.lblBairro = new System.Windows.Forms.Label();
             this.txtComplemento = new System.Windows.Forms.TextBox();
             this.lblComplemento = new System.Windows.Forms.Label();
             this.txtNumero = new System.Windows.Forms.TextBox();
@@ -101,7 +101,7 @@ namespace LojaABC
             // 
             // mskCelular
             // 
-            this.mskCelular.Location = new System.Drawing.Point(522, 67);
+            this.mskCelular.Location = new System.Drawing.Point(522, 64);
             this.mskCelular.Mask = "99999-9999";
             this.mskCelular.Name = "mskCelular";
             this.mskCelular.Size = new System.Drawing.Size(94, 26);
@@ -353,12 +353,12 @@ namespace LojaABC
             // 
             // gpbEndereco
             // 
-            this.gpbEndereco.Controls.Add(this.txtEstado);
-            this.gpbEndereco.Controls.Add(this.lblEstado);
+            this.gpbEndereco.Controls.Add(this.txtCidade);
+            this.gpbEndereco.Controls.Add(this.lblCIdade);
             this.gpbEndereco.Controls.Add(this.lblUF);
             this.gpbEndereco.Controls.Add(this.cbbUF);
-            this.gpbEndereco.Controls.Add(this.txtCidade);
-            this.gpbEndereco.Controls.Add(this.lblCidade);
+            this.gpbEndereco.Controls.Add(this.txtBairro);
+            this.gpbEndereco.Controls.Add(this.lblBairro);
             this.gpbEndereco.Controls.Add(this.txtComplemento);
             this.gpbEndereco.Controls.Add(this.lblComplemento);
             this.gpbEndereco.Controls.Add(this.txtNumero);
@@ -375,22 +375,22 @@ namespace LojaABC
             this.gpbEndereco.TabStop = false;
             this.gpbEndereco.Text = "Endereço";
             // 
-            // txtEstado
+            // txtCidade
             // 
-            this.txtEstado.Location = new System.Drawing.Point(371, 62);
-            this.txtEstado.MaxLength = 100;
-            this.txtEstado.Name = "txtEstado";
-            this.txtEstado.Size = new System.Drawing.Size(131, 26);
-            this.txtEstado.TabIndex = 16;
+            this.txtCidade.Location = new System.Drawing.Point(349, 62);
+            this.txtCidade.MaxLength = 100;
+            this.txtCidade.Name = "txtCidade";
+            this.txtCidade.Size = new System.Drawing.Size(131, 26);
+            this.txtCidade.TabIndex = 16;
             // 
-            // lblEstado
+            // lblCIdade
             // 
-            this.lblEstado.AutoSize = true;
-            this.lblEstado.Location = new System.Drawing.Point(306, 65);
-            this.lblEstado.Name = "lblEstado";
-            this.lblEstado.Size = new System.Drawing.Size(60, 20);
-            this.lblEstado.TabIndex = 27;
-            this.lblEstado.Text = "Estado";
+            this.lblCIdade.AutoSize = true;
+            this.lblCIdade.Location = new System.Drawing.Point(284, 65);
+            this.lblCIdade.Name = "lblCIdade";
+            this.lblCIdade.Size = new System.Drawing.Size(60, 20);
+            this.lblCIdade.TabIndex = 27;
+            this.lblCIdade.Text = "Estado";
             // 
             // lblUF
             // 
@@ -437,29 +437,29 @@ namespace LojaABC
             this.cbbUF.Size = new System.Drawing.Size(121, 28);
             this.cbbUF.TabIndex = 18;
             // 
-            // txtCidade
+            // txtBairro
             // 
-            this.txtCidade.Location = new System.Drawing.Point(587, 62);
-            this.txtCidade.MaxLength = 100;
-            this.txtCidade.Name = "txtCidade";
-            this.txtCidade.Size = new System.Drawing.Size(159, 26);
-            this.txtCidade.TabIndex = 17;
+            this.txtBairro.Location = new System.Drawing.Point(553, 62);
+            this.txtBairro.MaxLength = 100;
+            this.txtBairro.Name = "txtBairro";
+            this.txtBairro.Size = new System.Drawing.Size(202, 26);
+            this.txtBairro.TabIndex = 17;
             // 
-            // lblCidade
+            // lblBairro
             // 
-            this.lblCidade.AutoSize = true;
-            this.lblCidade.Location = new System.Drawing.Point(522, 65);
-            this.lblCidade.Name = "lblCidade";
-            this.lblCidade.Size = new System.Drawing.Size(59, 20);
-            this.lblCidade.TabIndex = 23;
-            this.lblCidade.Text = "Cidade";
+            this.lblBairro.AutoSize = true;
+            this.lblBairro.Location = new System.Drawing.Point(496, 65);
+            this.lblBairro.Name = "lblBairro";
+            this.lblBairro.Size = new System.Drawing.Size(51, 20);
+            this.lblBairro.TabIndex = 23;
+            this.lblBairro.Text = "Bairro";
             // 
             // txtComplemento
             // 
             this.txtComplemento.Location = new System.Drawing.Point(117, 62);
             this.txtComplemento.MaxLength = 100;
             this.txtComplemento.Name = "txtComplemento";
-            this.txtComplemento.Size = new System.Drawing.Size(182, 26);
+            this.txtComplemento.Size = new System.Drawing.Size(147, 26);
             this.txtComplemento.TabIndex = 15;
             // 
             // lblComplemento
@@ -495,6 +495,7 @@ namespace LojaABC
             this.mskCEP.Name = "mskCEP";
             this.mskCEP.Size = new System.Drawing.Size(88, 26);
             this.mskCEP.TabIndex = 13;
+            this.mskCEP.KeyDown += new System.Windows.Forms.KeyEventHandler(this.mskCEP_KeyDown);
             // 
             // lblCEP
             // 
@@ -576,12 +577,12 @@ namespace LojaABC
         private System.Windows.Forms.TextBox txtNumero;
         private System.Windows.Forms.Label lblNumero;
         private System.Windows.Forms.MaskedTextBox mskCEP;
-        private System.Windows.Forms.TextBox txtEstado;
-        private System.Windows.Forms.Label lblEstado;
+        private System.Windows.Forms.TextBox txtCidade;
+        private System.Windows.Forms.Label lblCIdade;
         private System.Windows.Forms.Label lblUF;
         private System.Windows.Forms.ComboBox cbbUF;
-        private System.Windows.Forms.TextBox txtCidade;
-        private System.Windows.Forms.Label lblCidade;
+        private System.Windows.Forms.TextBox txtBairro;
+        private System.Windows.Forms.Label lblBairro;
         private System.Windows.Forms.Button btnNovo;
         private System.Windows.Forms.Button btnVoltar;
         private System.Windows.Forms.Button btnPesquisar;

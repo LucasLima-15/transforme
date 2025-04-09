@@ -21,3 +21,13 @@ C:\projeto-csharp\Calculadora\bin\Debug\Calculadora.pdb
 C:\projeto-csharp\Calculadora\obj\Debug\Calculadora.exe
 C:\projeto-csharp\Calculadora\obj\Debug\Calculadora.pdb
 >>>>>>> ba87ae2c96e309aab14719d78e4e5eafc7f3ff2a
+C:\transforme\Calculadora\bin\Debug\Calculadora.exe.config
+C:\transforme\Calculadora\bin\Debug\Calculadora.exe
+C:\transforme\Calculadora\bin\Debug\Calculadora.pdb
+C:\transforme\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\transforme\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+C:\transforme\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\transforme\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\transforme\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\transforme\Calculadora\obj\Debug\Calculadora.exe
+C:\transforme\Calculadora\obj\Debug\Calculadora.pdb

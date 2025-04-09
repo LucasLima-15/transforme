@@ -18,3 +18,13 @@ C:\projeto-csharp\componentes\obj\Debug\Componentes.csproj.GenerateResource.cach
 C:\projeto-csharp\componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
 C:\projeto-csharp\componentes\obj\Debug\componentes.exe
 C:\projeto-csharp\componentes\obj\Debug\componentes.pdb
+C:\transforme\componentes\bin\Debug\componentes.exe.config
+C:\transforme\componentes\bin\Debug\componentes.exe
+C:\transforme\componentes\bin\Debug\componentes.pdb
+C:\transforme\componentes\obj\Debug\Componentes.csproj.AssemblyReference.cache
+C:\transforme\componentes\obj\Debug\componentes.frmComponentes.resources
+C:\transforme\componentes\obj\Debug\componentes.Properties.Resources.resources
+C:\transforme\componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+C:\transforme\componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\transforme\componentes\obj\Debug\componentes.exe
+C:\transforme\componentes\obj\Debug\componentes.pdb
